@@ -3,4 +3,5 @@
 * Implemented document chunking, embedding generation and semantic retrieval to identify relevant context from uploaded PDFs.
 * Integrated a Large Language Model (LLM) with a Retrieval-Augmented Generation (RAG) pipeline to generate context-aware responses.
 * Designed the system to allow users to interact with documents through natural-language queries.
-Technologies: Python, LangChain, Hugging Face, Sentence Transformers, FAISS, LLMs, Streamlit.
+
+*** Technologies: Python, LangChain, Hugging Face, Sentence Transformers, FAISS, LLMs, Streamlit.
